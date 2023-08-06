@@ -1,0 +1,13 @@
+[
+  {
+    "url": "https://api.garzdrav.ru:5031/swagger/v1/swagger.json",
+    "dir": "./src/renderer/shared/api/services",
+    "prefix": "/api",
+    "generateEnumAsType": true
+  },
+  {
+    "url": "https://api.garzdrav.ru:5021/swagger/v1/swagger.json",
+    "dir": "./src/renderer/shared/api/services-auth",
+    "prefix": "/api"
+  }
+]
